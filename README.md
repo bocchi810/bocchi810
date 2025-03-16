@@ -1,5 +1,5 @@
 ## Hi (*^▽^*)
-我是一只波奇酱 ぼっちです
+~~我是一只波奇酱 ぼっちです~~ 又双叒叕不是了
 
 ## 自我介绍/ About me
 *I am a High School student study in Dongguan, China*  
