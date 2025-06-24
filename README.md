@@ -66,5 +66,3 @@
 如果你愿意支持我的开发或服务器运营，欢迎通过 Telegram 或邮箱联系我～
 
 ---
-
-> 💬 *Thanks for visiting my profile! Keep learning, keep hacking!*
