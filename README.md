@@ -25,6 +25,12 @@
 
 ---
 
+## 🎵 I am listening / 我在听
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cw3jqlx2a3iqfwceudvwzziyaq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=26a269&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31cw3jqlx2a3iqfwceudvwzziyaq&redirect=true)
+
+---
+
 ## 🖥️ My Devices / 我的设备
 
 ### 💻 Desktop PC / 计算机
@@ -65,4 +71,3 @@
 
 如果你愿意支持我的开发或服务器运营，欢迎通过 Telegram 或邮箱联系我～
 
----
