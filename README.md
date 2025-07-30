@@ -13,7 +13,7 @@
 
 - I'm a **High School student** based in **Dongguan, China**
 - Open source is just my hobby — not a professional developer
-- I write code with the help of ChatGPT and DeepSeek 
+- I write code with the help of  Claude, Gemini, ChatGPT and DeepSeek 
 - You can reach me via [Telegram](https://t.me/bocchi1919810) or email: `admin@haoming9245.top`
 
 ---
