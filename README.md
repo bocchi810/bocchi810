@@ -39,8 +39,9 @@
 |------|------|
 | ![CPU](https://img.shields.io/badge/CPU-Ryzen_5_5600G-red?logo=amd) | 6C12T Zen 3 APU |
 | ![GPU](https://img.shields.io/badge/GPU-GeForce_RTX_4060-green?logo=nvidia) | 主显卡，NVIDIA / Main GPU , NVIDIA |
-| ![RAM](https://img.shields.io/badge/RAM-32GB_DDR4_3200MHz-blue) | 双通道高（低）频内存 / Dual channel high (low) frequency memory |
+| ![RAM](https://img.shields.io/badge/RAM-32GB_DDR4_3200MHz-yellow) | 双通道高（低）频内存 / Dual channel high (low) frequency memory |
 | ![OS](https://img.shields.io/badge/OS-Debian_Sid-ff69b4?logo=debian&logoColor=white) | 滚动更新，Debian 不死！ / Roll upgrade, Debian doesn't die! |
+| ![OS](https://img.shields.io/badge/OS-Windows-blue) | 我还用 Windows / I also using Windows |
 | ![Mouse](https://img.shields.io/badge/Mouse-Razer_DeathAdder_Essential-9cf?logo=razer) | 最便宜的雷蛇，不亏不亏 / The cheapest Razer, it's not bad at all |
 
 ---
