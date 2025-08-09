@@ -70,5 +70,8 @@
 
 [![Support](https://img.shields.io/badge/💰_Support-Contact_Me-yellow)](https://t.me/bocchi1919810)
 
-如果你愿意支持我的开发或服务器运营，欢迎通过 Telegram 或邮箱联系我～
-
+USDT/USDC/BNB(BNB Chain): 0x723461d8619e8ac0a5f447bfa1ff1209ca3a3614
+USDT/USDC/ETH(ETH): 0x723461d8619e8ac0a5f447bfa1ff1209ca3a3614
+USDT/USDC/TRX(TRON): THrgV111RvvFQTuKAgfPVUvdPQrsRWK4a6
+BTC(Taproot): bc1pd9r4p4pv5j5959rwzn9cg4h4zje0gmdnhhpnn2d0tcjx3t2j3tvqsm4yr5
+BCH: qz2eur369j722gp28x0pw6k72hpvke0n0sq3h3fzcx
