@@ -70,9 +70,9 @@
 
 [![Support](https://img.shields.io/badge/💰_Support-Contact_Me-yellow)](https://t.me/bocchi1919810)
 
-USDT/USDC/BNB/ETH/OKB/POL/ETH(Base)(BNB Chain/ETH/X Layer/Polygon/Base): 0x723461d8619e8ac0a5f447bfa1ff1209ca3a3614  
-USDT/USDC/TRX(TRON): THrgV111RvvFQTuKAgfPVUvdPQrsRWK4a6  
-USDT/USDC/SOL(Solana): BhKq2bn58NsyBehA3grjcyxM5mHhphcqh7qaarMATHhy  
-USDT/USDC/SUI(Sui): 0xe43d89eb17a2a9eb8130df1a6e33d6fa1d4e79c2a8eb78a919e509d055e9d934  
-BTC(Taproot): bc1pd9r4p4pv5j5959rwzn9cg4h4zje0gmdnhhpnn2d0tcjx3t2j3tvqsm4yr5  
-BCH: qz2eur369j722gp28x0pw6k72hpvke0n0sq3h3fzcx  
+**USDT/USDC/BNB/ETH/OKB/POL/ETH(Base)(BNB Chain/ETH/X Layer/Polygon/Base): 0x723461d8619e8ac0a5f447bfa1ff1209ca3a3614**  
+**USDT/USDC/TRX(TRON): THrgV111RvvFQTuKAgfPVUvdPQrsRWK4a6**  
+**USDT/USDC/SOL(Solana): BhKq2bn58NsyBehA3grjcyxM5mHhphcqh7qaarMATHhy**  
+**USDT/USDC/SUI(Sui): 0xe43d89eb17a2a9eb8130df1a6e33d6fa1d4e79c2a8eb78a919e509d055e9d934**  
+**BTC(Taproot): bc1pd9r4p4pv5j5959rwzn9cg4h4zje0gmdnhhpnn2d0tcjx3t2j3tvqsm4yr5**  
+**BCH: qz2eur369j722gp28x0pw6k72hpvke0n0sq3h3fzcx**  
