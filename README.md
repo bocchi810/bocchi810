@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm bocchi810 (*^▽^*)
-~~我是一只波奇酱 ぼっちです~~ 又双叒叕不是了  
-~~I am a bocchichan, bocchi desu~~ Not again
+~~我是一只波奇酱 ぼっちです~~ 又双叒叕不是了，现在是こいし酱  
+~~I am a bocchichan, bocchi desu~~ Not again, now is koishichan
 
 ---
 
