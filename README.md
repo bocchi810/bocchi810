@@ -27,12 +27,6 @@
 
 ---
 
-## 🎵 I am listening / 我在听
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31cw3jqlx2a3iqfwceudvwzziyaq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=26a269&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31cw3jqlx2a3iqfwceudvwzziyaq&redirect=true)
-
----
-
 ## 🖥️ My Devices / 我的设备
 
 ### 💻 Desktop PC / 计算机
@@ -51,7 +45,8 @@
 ### 📱 Phones / 智能手机
 
 - ![Phone1](https://img.shields.io/badge/📱_Redmi-Note_11T_Pro-blue?logo=xiaomi)
-- ![Phone2](https://img.shields.io/badge/📱_Huawei-FIG--AL00-lightgrey?logo=Huawei)
+- ![Phone1](https://img.shields.io/badge/📱_OnePlus-Ace_5_Ultra-blue?logo=oneplus)
+- ![Phone3](https://img.shields.io/badge/📱_Huawei-FIG--AL00-lightgrey?logo=Huawei)
 
 ---
 
