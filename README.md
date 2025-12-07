@@ -22,8 +22,8 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bocchi810&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bocchi810&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-zeta-one-57.vercel.app/api?username=bocchi810&count_private=true&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-zeta-one-57.vercel.app/api/top-langs/?username=bocchi810&layout=compact&theme=tokyonight)
 
 ---
 
