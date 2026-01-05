@@ -16,7 +16,6 @@
 - I'm a **High School student** based in **Dongguan, China**
 - Open source is just my hobby — not a professional developer
 - I write code with the help of  Claude, Gemini, ChatGPT and DeepSeek 
-- You can reach me via [Telegram](https://t.me/bocchi1919810) or email: `admin@haoming9245.top`
 
 ---
 
@@ -55,17 +54,34 @@
 - ![Router](https://img.shields.io/badge/Router-Redmi_AC2100-blue?logo=xiaomi)
 
 ---
+## ❗ 合规说明
 
-## 📫 Contact Me
+本人目前维护的一些开源仓库，可能涉及在中国法律法规下存在合规风险。
 
+本人维护相关仓库的目的仅限于技术研究、学术交流及数据共享，不以规避法律法规或从事任何违法活动为目的。
+
+如中国有关执法或司法机关认为本人参与的相关项目存在违法或不合规情形，或需要本人配合说明情况，请通过 [社交媒体/邮箱](https://github.com/bocchi810/bocchi810/edit/main/README.md#-my-social-media--email) 与我联系。本人将积极配合，并根据相关要求及时停止对相关项目的维护或参与。
+
+---
+## 🛜 My social media / Email
+
+[![Zhihu](https://img.shields.io/badge/Zhihu-haoming9245-0084FF?logo=zhihu)](https://www.zhihu.com/people/haoming9245)
+[![CoolAPK](https://img.shields.io/badge/CoolAPK-haoming9245-07C160)](http://www.coolapk.com/u/23169929)
+[![BiliBili](https://img.shields.io/badge/BiliBili-haoming9245-00A1D6?logo=bilibili)](https://space.bilibili.com/583010462)
+[![X](https://img.shields.io/badge/X-@hitori1919810-FFFFFF?logo=x)](https://x.com/hitori1919810)
 [![Telegram](https://img.shields.io/badge/Telegram-@bocchi1919810-2CA5E0?logo=telegram)](https://t.me/bocchi1919810)
 [![Email](https://img.shields.io/badge/Email-admin@haoming9245.top-D14836?logo=gmail)](mailto:admin@haoming9245.top)
+[![Steam-stonekoishi](https://img.shields.io/badge/Steam-stonekoishi(For_Counter_Strike_2)-000000?logo=steam)](https://steamcommunity.com/id/stonekoishi/)
+[![Steam-haoming9245](https://img.shields.io/badge/Steam-haoming9245(For_Other_Games)-000000?logo=steam)](mailto:admin@haoming9245.tophttps://steamcommunity.com/id/haoming9245/)
 
 ---
 
 ## ☕ Donate / 赞助我
 
-[![Support](https://img.shields.io/badge/💰_Support-Contact_Me-yellow)](https://t.me/bocchi1919810)
+![c568fb084bb2a6e7cb3689254607b4a7](https://github.com/user-attachments/assets/3732cfab-e238-41a4-8000-5289dbec5fce)
+
+
+中国用户如果没有下面的虚拟货币钱包，请使用上面的赞赏码（也最好使用上面的赞赏码）
 
 **USDT/USDC/BNB/ETH/OKB/POL/ETH(Base)(BNB Chain/ETH/X Layer/Polygon/Base): 0x723461d8619e8ac0a5f447bfa1ff1209ca3a3614**  
 **USDT/USDC/TRX(TRON): THrgV111RvvFQTuKAgfPVUvdPQrsRWK4a6**  
