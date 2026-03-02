@@ -75,7 +75,7 @@
 [![V2EX](https://img.shields.io/badge/V2EX-Bocchi810-1F1F1F?logo=v2ex)](https://www.v2ex.com/member/Bocchi810)
 [![Bluesky](https://img.shields.io/badge/bluesky-@haoming9245.top-1185FE?logo=bluesky)](https://bsky.app/profile/haoming9245.top)
 
-Session(聊天软件/Chat software) User ID: `0569cba6045cc758c7ff565f3866f6f1387672fa9ea00f16a4e0df967208ca2a27`
+[Session](https://github.com/session-foundation)(聊天软件/Chat software) User ID: `0569cba6045cc758c7ff565f3866f6f1387672fa9ea00f16a4e0df967208ca2a27`
 
 ---
 
