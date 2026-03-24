@@ -70,7 +70,6 @@
 [![BiliBili](https://img.shields.io/badge/BiliBili-haoming9245-00A1D6?logo=bilibili)](https://space.bilibili.com/583010462)
 [![X](https://img.shields.io/badge/X-@hitori1919810-FFFFFF?logo=x)](https://x.com/hitori1919810)
 [![Telegram](https://img.shields.io/badge/Telegram-@bocchi1919810-2CA5E0?logo=telegram)](https://t.me/bocchi1919810)
-[![Email](https://img.shields.io/badge/Email-admin@haoming9245.top-D14836?logo=gmail)](mailto:admin@haoming9245.top)
 [![Steam-stonekoishi](https://img.shields.io/badge/Steam-stonekoishi(For_Counter_Strike_2)-000000?logo=steam)](https://steamcommunity.com/id/stonekoishi/)
 [![V2EX](https://img.shields.io/badge/V2EX-Bocchi810-1F1F1F?logo=v2ex)](https://www.v2ex.com/member/Bocchi810)
 [![Bluesky](https://img.shields.io/badge/bluesky-@haoming9245.top-1185FE?logo=bluesky)](https://bsky.app/profile/haoming9245.top)
